@@ -7,8 +7,8 @@ def some_computation(ii,jj,kk):
 
 def main():
 	II = 100000
-	JJ = 10
-	KK = 10
+	JJ = 100
+	KK = 40
 	for ii in range(0,II):
 		print(ii)
 		for jj in range(0, JJ):
