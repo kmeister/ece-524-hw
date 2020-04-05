@@ -15,7 +15,7 @@ double some_computation(int ii, int jj, int kk)
 int main()
 {
     const int IMAX = 1000000;
-    const int JMAX = 100;
+    const int JMAX = 200;
     const int KMAX = 50;
 
     chrono::steady_clock::time_point begin = chrono::steady_clock::now();
